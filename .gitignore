@@ -22,3 +22,16 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Laravel backend
+craft_studio/storage/framework/
+craft_studio/storage/logs/
+craft_studio/storage/*.key
+craft_studio/vendor/
+craft_studio/.env
+craft_studio/bootstrap/cache/
+
+# React frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
